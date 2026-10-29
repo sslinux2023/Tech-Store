@@ -1,0 +1,302 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "includes_functions_format_price",
+      "label": "format_price()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "functions.php",
+      "file_type": "code",
+      "norm_label": "format_price()",
+      "source_file": "includes/functions.php",
+      "source_location": "L88"
+    },
+    {
+      "id": "includes_functions_get_cart_count",
+      "label": "get_cart_count()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "functions.php",
+      "file_type": "code",
+      "norm_label": "get_cart_count()",
+      "source_file": "includes/functions.php",
+      "source_location": "L66"
+    },
+    {
+      "id": "includes_functions_get_flash_message",
+      "label": "get_flash_message()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "functions.php",
+      "file_type": "code",
+      "norm_label": "get_flash_message()",
+      "source_file": "includes/functions.php",
+      "source_location": "L50"
+    },
+    {
+      "id": "includes_functions_is_logged_in",
+      "label": "is_logged_in()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "functions.php",
+      "file_type": "code",
+      "norm_label": "is_logged_in()",
+      "source_file": "includes/functions.php",
+      "source_location": "L28"
+    },
+    {
+      "id": "includes_functions_sanitize",
+      "label": "sanitize()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "functions.php",
+      "file_type": "code",
+      "norm_label": "sanitize()",
+      "source_file": "includes/functions.php",
+      "source_location": "L16"
+    },
+    {
+      "id": "includes_functions_set_flash_message",
+      "label": "set_flash_message()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "functions.php",
+      "file_type": "code",
+      "norm_label": "set_flash_message()",
+      "source_file": "includes/functions.php",
+      "source_location": "L38"
+    },
+    {
+      "id": "includes_functions",
+      "label": "functions.php",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "functions.php",
+      "file_type": "code",
+      "norm_label": "functions.php",
+      "source_file": "includes/functions.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "actions_add_to_cart",
+      "label": "add_to_cart.php",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "add_to_cart.php",
+      "file_type": "code",
+      "norm_label": "add_to_cart.php",
+      "source_file": "actions/add_to_cart.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "includes_footer",
+      "label": "footer.php",
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "footer.php",
+      "file_type": "code",
+      "norm_label": "footer.php",
+      "source_file": "includes/footer.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "includes_header",
+      "label": "header.php",
+      "_origin": "ast",
+      "community": 11,
+      "community_name": "header.php",
+      "file_type": "code",
+      "norm_label": "header.php",
+      "source_file": "includes/header.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "index",
+      "label": "index.php",
+      "_origin": "ast",
+      "community": 12,
+      "community_name": "index.php",
+      "file_type": "code",
+      "norm_label": "index.php",
+      "source_file": "index.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "product",
+      "label": "product.php",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "product.php",
+      "file_type": "code",
+      "norm_label": "product.php",
+      "source_file": "product.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "actions_process_checkout",
+      "label": "process_checkout.php",
+      "_origin": "ast",
+      "community": 2,
+      "community_name": "process_checkout.php",
+      "file_type": "code",
+      "norm_label": "process_checkout.php",
+      "source_file": "actions/process_checkout.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "actions_update_cart",
+      "label": "update_cart.php",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "update_cart.php",
+      "file_type": "code",
+      "norm_label": "update_cart.php",
+      "source_file": "actions/update_cart.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "auth_login",
+      "label": "login.php",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "login.php",
+      "file_type": "code",
+      "norm_label": "login.php",
+      "source_file": "auth/login.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "auth_logout",
+      "label": "logout.php",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "logout.php",
+      "file_type": "code",
+      "norm_label": "logout.php",
+      "source_file": "auth/logout.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "auth_register",
+      "label": "register.php",
+      "_origin": "ast",
+      "community": 6,
+      "community_name": "register.php",
+      "file_type": "code",
+      "norm_label": "register.php",
+      "source_file": "auth/register.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "cart",
+      "label": "cart.php",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "cart.php",
+      "file_type": "code",
+      "norm_label": "cart.php",
+      "source_file": "cart.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "checkout",
+      "label": "checkout.php",
+      "_origin": "ast",
+      "community": 8,
+      "community_name": "checkout.php",
+      "file_type": "code",
+      "norm_label": "checkout.php",
+      "source_file": "checkout.php",
+      "source_location": "L1"
+    },
+    {
+      "id": "config_db",
+      "label": "db.php",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "db.php",
+      "file_type": "code",
+      "norm_label": "db.php",
+      "source_file": "config/db.php",
+      "source_location": "L1"
+    }
+  ],
+  "links": [
+    {
+      "source": "includes_functions",
+      "target": "includes_functions_sanitize",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "includes/functions.php",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "includes_functions",
+      "target": "includes_functions_is_logged_in",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "includes/functions.php",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "includes_functions",
+      "target": "includes_functions_set_flash_message",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "includes/functions.php",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "includes_functions",
+      "target": "includes_functions_get_flash_message",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "includes/functions.php",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "includes_functions",
+      "target": "includes_functions_get_cart_count",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "includes/functions.php",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
+      "source": "includes_functions",
+      "target": "includes_functions_format_price",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "includes/functions.php",
+      "source_location": "L88",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": []
+}

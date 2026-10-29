@@ -1,0 +1,10 @@
+Options -Indexes
+<FilesMatch "\.(sql|log|ini|md|json)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+<IfModule mod_authz_core.c>
+    <FilesMatch "\.(sql|log|ini|md|json)$">
+        Require all denied
+    </FilesMatch>
+</IfModule>

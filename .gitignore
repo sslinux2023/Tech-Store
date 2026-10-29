@@ -1,0 +1,27 @@
+# PHP / Composer
+/vendor/
+composer.lock
+
+# Environment / secrets
+.env
+.env.*
+*.sql
+*.db
+config/secrets.php
+
+# Logs
+*.log
+logs/
+
+# Uploads (usually not committed)
+/uploads/
+/storage/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Node (if you have frontend build)
+node_modules/

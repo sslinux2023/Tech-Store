@@ -1,0 +1,77 @@
+{
+  "communities": {
+    "0": [
+      "includes_functions",
+      "includes_functions_format_price",
+      "includes_functions_get_cart_count",
+      "includes_functions_get_flash_message",
+      "includes_functions_is_logged_in",
+      "includes_functions_sanitize",
+      "includes_functions_set_flash_message"
+    ],
+    "1": [
+      "actions_add_to_cart"
+    ],
+    "2": [
+      "actions_process_checkout"
+    ],
+    "3": [
+      "actions_update_cart"
+    ],
+    "4": [
+      "auth_login"
+    ],
+    "5": [
+      "auth_logout"
+    ],
+    "6": [
+      "auth_register"
+    ],
+    "7": [
+      "cart"
+    ],
+    "8": [
+      "checkout"
+    ],
+    "9": [
+      "config_db"
+    ],
+    "10": [
+      "includes_footer"
+    ],
+    "11": [
+      "includes_header"
+    ],
+    "12": [
+      "index"
+    ],
+    "13": [
+      "product"
+    ]
+  },
+  "cohesion": {
+    "0": 0.2857142857142857,
+    "1": 1.0,
+    "2": 1.0,
+    "3": 1.0,
+    "4": 1.0,
+    "5": 1.0,
+    "6": 1.0,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0
+  },
+  "gods": [],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "no_signal",
+      "question": null,
+      "why": "Not enough signal to generate questions. This usually means the corpus has no AMBIGUOUS edges, no bridge nodes, no INFERRED relationships, and all communities are tightly cohesive. Add more files or run with --mode deep to extract richer edges."
+    }
+  ]
+}
