@@ -90,8 +90,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             exit;
 
         } catch (PDOException $e) {
-            $errors[] = 'Registration failed: ' . $e->getMessage();
-        }
+          $errors[] = 'Registration failed due to a system error. Please try again.';        }
     }
 }
 
